@@ -1,0 +1,16 @@
+- [ ] CFL Backup -- **Progress**
+      - Need Ip For OT Network For Access and Communicate with Sharukh to Get Ip and give to Dinesh INDEC
+      - After Talked With Saravanan and All the Members, Need to Call Bhavan For Conformation and Dinesh will take Next Step. Need Follow up.
+---
+- [ ] Asset Managing -- **Progress**
+      - Need to Fill All server Details
+---
+- [ ] Linux HPC License Renewal -- **Progress**
+      - Communicate with Jeeva and Vendor Status Update.
+---
+- [ ] RHEL 0.5 License Activate -- **Progress**
+      - Send data to Surender.
+---
+- [ ] Sonar Cube -- **Progress**
+- [ ] 
+      - Need to activate RHEL 0.5 and install Sonar Cube.
