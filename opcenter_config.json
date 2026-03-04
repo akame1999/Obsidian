@@ -1,0 +1,13 @@
+{
+  "domain": "ZL",
+  "ps_timeout": 300,
+  "patch_share": "\\\\10.87.60.2\\IT Asset Detail\\Naseer\\patch\\",
+  "servers": [
+    "L11SGRIFP001",
+    "L11SGRIFP002",
+    "L11SGRIFP003",
+    "L11SGRIFP005",
+    "L11SGRIVMHDC01",
+    "L11SGRIWEB001"
+  ]
+}

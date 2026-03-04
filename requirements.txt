@@ -1,0 +1,11 @@
+# OpsCenter Dependencies
+# Use numpy 1.x for PyInstaller compatibility (numpy 2.x has import issues)
+
+pyinstaller==6.11.1
+streamlit
+requests
+pandas
+openpyxl
+numpy<2.0.0  # Pin to 1.26.x - PyInstaller doesn't fully support numpy 2.x yet
+pywin32  # For Windows Credential Manager and security APIs
+cryptography  # For enhanced security features
